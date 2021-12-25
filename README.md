@@ -32,7 +32,7 @@ def circulate():
 ```    
 
 ## Output:
-![output](./n1.png)
+![image](https://github.com/Nagadurg/Circulate-the-values-of-N-variables/blob/e26da254e21aa5e478f383ac2d0805217580b236/n1.PNG)
 
 ## Result:
 The program is executed.
